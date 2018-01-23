@@ -1,8 +1,3 @@
----
-title: Footer
-layout: spec
-order: 2
----
 
 # Footer Specifications
 The Footer stretches full width by default, with the column and content area 
